@@ -24,7 +24,7 @@
 #define PUSHOVER_H
 
 #include <time.h>
-#include <curl/curl.h>
+#include <curl.h>
 
 #define CPSH_TOKEN_LN 30
 #define CPSH_MAX_API_URL_LN 64
